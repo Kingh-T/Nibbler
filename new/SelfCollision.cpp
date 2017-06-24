@@ -1,0 +1,4 @@
+void SelfCollision(Snake &snake) {
+    
+}
+
